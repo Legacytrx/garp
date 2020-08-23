@@ -1,0 +1,2 @@
+# garp
+Game resolution protocol
